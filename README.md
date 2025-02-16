@@ -23,15 +23,20 @@ The Word Counter project is a simple Python program designed to count the number
 
 **User-Friendly Interface:** The program ensures a clear and user-friendly interface for input and output.
 
-#Clone the Repository:
+# Clone the Repository:
 
 **bash**
+
 git clone https://github.com/your-username/word-counter.git
+
 cd word-counter
-Run the Program:
+
+**Run the Program:**
 
 **bash**
+
 python word_counter.py
+
 Enter Your Text:
 
 The program will prompt you to enter a sentence or paragraph.
